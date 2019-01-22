@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/schooltime/static/js/runtime~main.106e4929.js"
   },
   {
-    "revision": "f5ebba70b7bfadf2f4c5",
-    "url": "/schooltime/static/js/main.f5ebba70.chunk.js"
+    "revision": "88233a23235aa95fa3cc",
+    "url": "/schooltime/static/js/main.88233a23.chunk.js"
   },
   {
-    "revision": "359ce44c4f0bdb4f7dbf",
-    "url": "/schooltime/static/js/1.359ce44c.chunk.js"
+    "revision": "b80e0fdf925cb9f23cd8",
+    "url": "/schooltime/static/js/1.b80e0fdf.chunk.js"
   },
   {
-    "revision": "f5ebba70b7bfadf2f4c5",
+    "revision": "88233a23235aa95fa3cc",
     "url": "/schooltime/static/css/main.5661b20c.chunk.css"
   },
   {
-    "revision": "522583fd12e382d1ba62f8bfc902b281",
+    "revision": "2c14428c7ed5434b48ec4a30f232699a",
     "url": "/schooltime/index.html"
   }
 ];
