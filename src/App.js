@@ -1,26 +1,30 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+import Navbar from './components/layout/Navbar';
+import Landing from './components/layout/Landing';
+import About from './components/views/About';
+import Contact from './components/views/Contact';
+import Corporative from './components/views/Corporative';
+import Institutional from './components/views/Institutional';
+import Schools from './components/views/Schools';
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import './App.css';
 
 class App extends Component {
   render() {
     return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-        </header>
-      </div>
+      <Router>
+        <div className="App">
+          <Navbar />
+          <div className="container">
+            <Route exact path="/" component={Landing} />
+            <Route exact path="/about" component={About} />
+            <Route exact path="/contact" component={Contact} />
+            <Route exact path="/corporative" component={Corporative} />
+            <Route exact path="/institutional" component={Institutional} />
+            <Route exact path="/schools" component={Schools} />
+          </div>
+        </div>
+      </Router>
     );
   }
 }
