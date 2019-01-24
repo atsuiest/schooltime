@@ -10,8 +10,8 @@ export default class Landing extends Component {
       <div className="container">
         <Slide />
         <br />
-        <Catalog catalogTitle="Lo más visto" />
-        <Catalog catalogTitle="Nuevos" />
+        {/* <Catalog catalogTitle="Lo más visto" />
+        <Catalog catalogTitle="Nuevos" /> */}
         <Map />
         <br />
         <Footer />
