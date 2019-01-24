@@ -1,14 +1,14 @@
 {
-  "main.css": "/schooltime/static/css/main.5661b20c.chunk.css",
-  "main.js": "/schooltime/static/js/main.3d70e5e7.chunk.js",
-  "main.js.map": "/schooltime/static/js/main.3d70e5e7.chunk.js.map",
-  "static/js/1.b80e0fdf.chunk.js": "/schooltime/static/js/1.b80e0fdf.chunk.js",
-  "static/js/1.b80e0fdf.chunk.js.map": "/schooltime/static/js/1.b80e0fdf.chunk.js.map",
+  "main.css": "/schooltime/static/css/main.912a3569.chunk.css",
+  "main.js": "/schooltime/static/js/main.026578f6.chunk.js",
+  "main.js.map": "/schooltime/static/js/main.026578f6.chunk.js.map",
+  "static/js/1.0022a7c4.chunk.js": "/schooltime/static/js/1.0022a7c4.chunk.js",
+  "static/js/1.0022a7c4.chunk.js.map": "/schooltime/static/js/1.0022a7c4.chunk.js.map",
   "runtime~main.js": "/schooltime/static/js/runtime~main.106e4929.js",
   "runtime~main.js.map": "/schooltime/static/js/runtime~main.106e4929.js.map",
   "static/media/jockey.jpg": "/schooltime/static/media/jockey.12b97607.jpg",
-  "static/css/main.5661b20c.chunk.css.map": "/schooltime/static/css/main.5661b20c.chunk.css.map",
+  "static/css/main.912a3569.chunk.css.map": "/schooltime/static/css/main.912a3569.chunk.css.map",
   "index.html": "/schooltime/index.html",
-  "precache-manifest.072425cf101f7967a69e164859773f97.js": "/schooltime/precache-manifest.072425cf101f7967a69e164859773f97.js",
+  "precache-manifest.35a585cb705276aa92b460abb13e02ac.js": "/schooltime/precache-manifest.35a585cb705276aa92b460abb13e02ac.js",
   "service-worker.js": "/schooltime/service-worker.js"
 }
