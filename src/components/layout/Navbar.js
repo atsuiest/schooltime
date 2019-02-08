@@ -20,14 +20,14 @@ class Navbar extends Component {
             data-toggle="collapse"
             data-target="#mobile-nav"
           >
-            <span class="navbar-toggler-icon" />
+            <span className="navbar-toggler-icon" />
           </button>
 
           <div className="collapse navbar-collapse" id="mobile-nav">
             <ul className="navbar-nav ml-auto">
-              <li class="nav-item dropdown">
+              <li className="nav-item dropdown">
                 <a
-                  class="nav-link dropdown-toggle"
+                  className="nav-link dropdown-toggle"
                   href="#"
                   id="navbarDropdownMenuLink"
                   role="button"
@@ -38,17 +38,17 @@ class Navbar extends Component {
                   Categorias
                 </a>
                 <div
-                  class="dropdown-menu"
+                  className="dropdown-menu"
                   aria-labelledby="navbarDropdownMenuLink"
                 >
                   <Link className="nav-link" to="/corporative">
-                    Corporativa
+                    Ropa Corporativa
                   </Link>
                   <Link className="nav-link" to="/institutional">
-                    Institucional
+                    Ropa Institucional
                   </Link>
                   <Link className="nav-link" to="/schools">
-                    Colegios
+                    Ropa Colegios
                   </Link>
                 </div>
               </li>
