@@ -1,15 +1,13 @@
 {
-  "main.css": "/schooltime/static/css/main.912a3569.chunk.css",
-  "main.js": "/schooltime/static/js/main.6c02b178.chunk.js",
-  "main.js.map": "/schooltime/static/js/main.6c02b178.chunk.js.map",
-  "static/js/1.0022a7c4.chunk.js": "/schooltime/static/js/1.0022a7c4.chunk.js",
-  "static/js/1.0022a7c4.chunk.js.map": "/schooltime/static/js/1.0022a7c4.chunk.js.map",
+  "main.css": "/schooltime/static/css/main.5548b075.chunk.css",
+  "main.js": "/schooltime/static/js/main.42cd324a.chunk.js",
+  "main.js.map": "/schooltime/static/js/main.42cd324a.chunk.js.map",
+  "static/js/1.545ae150.chunk.js": "/schooltime/static/js/1.545ae150.chunk.js",
+  "static/js/1.545ae150.chunk.js.map": "/schooltime/static/js/1.545ae150.chunk.js.map",
   "runtime~main.js": "/schooltime/static/js/runtime~main.106e4929.js",
   "runtime~main.js.map": "/schooltime/static/js/runtime~main.106e4929.js.map",
-  "static/css/main.912a3569.chunk.css.map": "/schooltime/static/css/main.912a3569.chunk.css.map",
-  "static/media/jockey.jpg": "/schooltime/static/media/jockey.12b97607.jpg",
-  "static/media/logo.14299c66.svg": "/schooltime/static/media/logo.14299c66.svg",
+  "static/css/main.5548b075.chunk.css.map": "/schooltime/static/css/main.5548b075.chunk.css.map",
   "index.html": "/schooltime/index.html",
-  "precache-manifest.f82865582fb3b96ebec2796f38f0a902.js": "/schooltime/precache-manifest.f82865582fb3b96ebec2796f38f0a902.js",
+  "precache-manifest.b8dd1ed48c4acd9045c4eef3052244ce.js": "/schooltime/precache-manifest.b8dd1ed48c4acd9045c4eef3052244ce.js",
   "service-worker.js": "/schooltime/service-worker.js"
 }
