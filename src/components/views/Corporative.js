@@ -1,12 +1,13 @@
 import React, { Component } from 'react';
 import Catalogue from './catalogue/Catalogue';
+import Footer from '../layout/Footer';
 
 export default class Corporative extends Component {
   render() {
     return (
       <div>
-        <h1>Corporativa</h1>
-        <Catalogue title="This is Corporative" />
+        <Catalogue shopName="Corporativa" />
+        <Footer />
       </div>
     );
   }
