@@ -1,13 +1,13 @@
 {
   "main.css": "/schooltime/static/css/main.5548b075.chunk.css",
-  "main.js": "/schooltime/static/js/main.42cd324a.chunk.js",
-  "main.js.map": "/schooltime/static/js/main.42cd324a.chunk.js.map",
+  "main.js": "/schooltime/static/js/main.410f3757.chunk.js",
+  "main.js.map": "/schooltime/static/js/main.410f3757.chunk.js.map",
   "static/js/1.545ae150.chunk.js": "/schooltime/static/js/1.545ae150.chunk.js",
   "static/js/1.545ae150.chunk.js.map": "/schooltime/static/js/1.545ae150.chunk.js.map",
   "runtime~main.js": "/schooltime/static/js/runtime~main.106e4929.js",
   "runtime~main.js.map": "/schooltime/static/js/runtime~main.106e4929.js.map",
   "static/css/main.5548b075.chunk.css.map": "/schooltime/static/css/main.5548b075.chunk.css.map",
   "index.html": "/schooltime/index.html",
-  "precache-manifest.b8dd1ed48c4acd9045c4eef3052244ce.js": "/schooltime/precache-manifest.b8dd1ed48c4acd9045c4eef3052244ce.js",
+  "precache-manifest.2bf9b0d1406f08d825dd28346058e24f.js": "/schooltime/precache-manifest.2bf9b0d1406f08d825dd28346058e24f.js",
   "service-worker.js": "/schooltime/service-worker.js"
 }

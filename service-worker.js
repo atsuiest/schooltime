@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/schooltime/precache-manifest.b8dd1ed48c4acd9045c4eef3052244ce.js"
+  "/schooltime/precache-manifest.2bf9b0d1406f08d825dd28346058e24f.js"
 );
 
 workbox.clientsClaim();
